@@ -1,4 +1,4 @@
-// Function that takes 2 colors and returns the averagee
+// Function that takes 2 colors and returns the average
 
 function avgColor(col1, col2){ //I usually use arrow functions but wanted access to arguments object
 
